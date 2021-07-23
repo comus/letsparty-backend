@@ -1,5 +1,6 @@
 {
   "scripts": {
+    "build": "next build",
     "start": "yarn build && next start --port 4000"
   },
   "dependencies": {
